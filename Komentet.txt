@@ -1,0 +1,19 @@
+Comments: Logistic
+
+    This code loads the Boston Housing dataset from a provided URL and prepares it for logistic regression.
+    It sets a threshold to classify house prices as high or low based on the median price.
+    It prints the first few rows of the DataFrame to verify the dataset.
+    It splits the dataset into features (X_logistic) and target (y_logistic) for logistic regression.
+    It splits the dataset into training and testing sets for logistic regression.
+    It trains a logistic regression model on the training data.
+    It makes predictions on the test data and calculates the accuracy of the logistic regression model.\
+
+
+Comments: Linear
+
+    This code loads the Boston Housing dataset from a provided URL.
+    It creates a DataFrame with features and target variables for linear regression.
+    It prints the first few rows of the DataFrame to verify the dataset.
+    It prints the shape of the DataFrame, providing information about the number of rows and columns in the dataset.
+
+Overall, these codes demonstrate how to prepare and use the Boston Housing dataset for logistic regression and linear regression tasks. The logistic regression model aims to classify house prices as high or low based on features, while the linear regression model predicts house prices directly.
